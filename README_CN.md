@@ -5,7 +5,7 @@
 
 用户可以随机抽取三张塔罗牌，输入自己的问题，并获得由 AI 生成的专属塔罗解读
 
-# 项目介绍
+## 项目介绍
 这是我第一次尝试使用 AI Coding 工具进行完整产品开发👏
 
 项目从构思、页面生成、功能实现，到 GitHub 与 Vercel 部署，均通过 Claude Code 辅助完成。
@@ -33,5 +33,5 @@
 * GitHub
 * Vercel
   
-## 在线访问
+### 在线访问：
 https://tarot-oracle-swart.vercel.app
