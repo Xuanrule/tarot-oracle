@@ -1,6 +1,6 @@
-👉 English Version [English](./README.md)
+👉 [English](./README.md)
 
-# Tarot Oracle 塔罗神谕
+# TAROT ORACLE 塔罗神谕
 一个基于 AI 的塔罗牌占卜网站。
 
 你可以选择自己想要的牌阵并抽取塔罗牌，输入自己的问题，并获得专属塔罗解读。
