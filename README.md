@@ -25,14 +25,16 @@ Major Upgrades:
 * Career & Workplace Divination
 
 2. Multiple Tarot Spreads
-Each category contains 4 classic tarot spreads for you to choose freely according to your question.
+   
+* Each category contains 4 classic tarot spreads for you to choose freely according to your question.
 
 3. AI API Support
 * DeepSeek
 * Open AI
 
 4. Dual Language Switch
-English / Simplified Chinese
+   
+* English / Simplified Chinese
 
 5. Brand New Visual Upgrade
 * Mysterious glowing white starry background
