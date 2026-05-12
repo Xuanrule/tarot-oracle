@@ -1,5 +1,5 @@
 👉 [简体中文](./README_CN.md)
-# Tarot Oracle 🔮
+# TAROT ORACLE 🔮
 An AI-powered tarot divination website.
 
 You can randomly choose your tarot spreads and draw tarot cards, enter your own questions, and receive personalized tarot interpretations.
